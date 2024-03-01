@@ -1,0 +1,7 @@
+bilibili_api_python
+youtube-transcript-api
+pytube
+gradio
+langchain
+faiss-cpu
+transformers
